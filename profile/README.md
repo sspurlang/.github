@@ -14,7 +14,7 @@
 SSPUR compiles to native code and checks effects and contracts at compile time, so a program says what it may do (network, files, database) and the compiler holds it to that. It comes with an HTTP client and server, SQLite, crypto, a debugger, a formatter, editor support and a package registry that runs entirely on GitHub.
 
 ```
-brew install utkarshavardhana/sspur/sspur      # or: curl -fsSL https://github.com/sspurlang/sspur/releases/latest/download/install.sh | sh
+brew install sspurlang/sspur/sspur      # or: curl -fsSL https://github.com/sspurlang/sspur/releases/latest/download/install.sh | sh
 sspur new web-app notes && cd notes && sspur run
 ```
 
