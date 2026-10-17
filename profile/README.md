@@ -3,6 +3,7 @@
 <h3 align="center">SSPUR, a programming language for AI agents to write, read and maintain</h3>
 
 <p align="center">
+  <a href="https://sspurlang.github.io/"><b>sspurlang.github.io</b></a> ·
   <a href="https://sspurlang.github.io/sspur/">Docs</a> ·
   <a href="https://sspurlang.github.io/sspur/play/">Playground</a> ·
   <a href="https://sspurlang.github.io/sspur-packages/">Packages</a> ·
@@ -18,6 +19,8 @@ sspur new web-app notes && cd notes && sspur run
 ```
 
 **Repositories**
+
+- [sspurlang.github.io](https://github.com/sspurlang/sspurlang.github.io): SSPUR's home page, rebuilt every day by an SSPUR program.
 
 - [sspur](https://github.com/sspurlang/sspur): the compiler, standard library, tools and docs.
 - [sspur-packages](https://github.com/sspurlang/sspur-packages): the package registry's index; publish from the [Publish page](https://sspurlang.github.io/sspur-packages/publish/) or with `sspur publish`.
